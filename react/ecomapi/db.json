@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "MacBook Air M2",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 1199.99,
+      "description": "Lightweight and powerful laptop with Apple M2 chip, 256GB SSD, and 8GB RAM.",
+      "imageFilename": "1.jpg",
+      "createdAt": "2024-12-02T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 999.99,
+      "description": "Premium 13-inch laptop with InfinityEdge display and long battery life.",
+      "imageFilename": "2.jpg",
+      "createdAt": "2024-12-01T15:30:00Z"
+    },
+    {
+      "id": "3",
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 1299.99,
+      "description": "The latest iPhone with A17 Pro chip, titanium body, and advanced camera system.",
+      "imageFilename": "3.jpg",
+      "createdAt": "2024-11-28T11:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 1199.99,
+      "description": "Powerful smartphone with 200MP camera and S Pen support.",
+      "imageFilename": "4.jpg",
+      "createdAt": "2024-11-30T14:45:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "category": "Accessories",
+      "price": 349.99,
+      "description": "Top-notch noise-canceling wireless headphones with amazing sound quality.",
+      "imageFilename": "5.jpg",
+      "createdAt": "2024-11-25T13:15:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Bose QuietComfort Earbuds II",
+      "brand": "Bose",
+      "category": "Accessories",
+      "price": 299.99,
+      "description": "Comfortable and high-quality wireless earbuds with excellent noise-canceling.",
+      "imageFilename": "6.jpg",
+      "createdAt": "2024-11-27T10:30:00Z"
+    },
+    {
+      "id": "7",
+      "name": "LG OLED C3 55\" TV",
+      "brand": "LG",
+      "category": "Televisions",
+      "price": 1399.99,
+      "description": "Stunning 4K OLED TV with Dolby Vision and gaming features.",
+      "imageFilename": "7.jpg",
+      "createdAt": "2024-11-29T18:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Google Pixel 8",
+      "brand": "Google",
+      "category": "Smartphones",
+      "price": 699.99,
+      "description": "Affordable flagship phone with AI-powered camera and Google Tensor G3 chip.",
+      "imageFilename": "8.jpg",
+      "createdAt": "2024-11-24T12:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "brand": "Samsung",
+      "category": "Tablets",
+      "price": 1199.99,
+      "description": "High-end Android tablet with a massive display and S Pen support.",
+      "imageFilename": "9.jpg",
+      "createdAt": "2024-11-20T09:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Kindle Paperwhite",
+      "brand": "Amazon",
+      "category": "E-readers",
+      "price": 139.99,
+      "description": "Waterproof e-reader with a glare-free screen and weeks of battery life.",
+      "imageFilename": "10.jpg",
+      "createdAt": "2024-11-19T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "category": "Smartwatches",
+      "price": 399.99,
+      "description": "Advanced smartwatch with improved health features and a brighter display.",
+      "imageFilename": "11.jpg",
+      "createdAt": "2024-11-15T15:45:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Garmin Fenix 7",
+      "brand": "Garmin",
+      "category": "Smartwatches",
+      "price": 699.99,
+      "description": "Rugged multisport GPS smartwatch with solar charging.",
+      "imageFilename": "12.jpg",
+      "createdAt": "2024-11-18T11:35:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Logitech MX Master 3S",
+      "brand": "Logitech",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "Ergonomic wireless mouse with precision tracking and customizable buttons.",
+      "imageFilename": "13.jpg",
+      "createdAt": "2024-11-17T14:20:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Razer BlackWidow V4 Pro",
+      "brand": "Razer",
+      "category": "Accessories",
+      "price": 229.99,
+      "description": "Mechanical gaming keyboard with RGB lighting and tactile keys.",
+      "imageFilename": "14.jpg",
+      "createdAt": "2024-11-13T09:45:00Z"
+    },
+    {
+      "id": "15",
+      "name": "HP Envy 6055e Printer",
+      "brand": "HP",
+      "category": "Printers",
+      "price": 99.99,
+      "description": "All-in-one printer for home use with wireless printing and scanning.",
+      "imageFilename": "15.jpg",
+      "createdAt": "2024-11-12T16:00:00Z"
+    },
+    {
+      "id": "16",
+      "name": "DJI Mini 4 Pro",
+      "brand": "DJI",
+      "category": "Drones",
+      "price": 759.99,
+      "description": "Compact drone with 4K video recording and advanced flight features.",
+      "imageFilename": "16.jpg",
+      "createdAt": "2024-11-10T10:30:00Z"
+    },
+    {
+      "id": "17",
+      "name": "GoPro Hero 12 Black",
+      "brand": "GoPro",
+      "category": "Cameras",
+      "price": 399.99,
+      "description": "Rugged action camera with 5.3K video and superior image stabilization.",
+      "imageFilename": "17.jpg",
+      "createdAt": "2024-11-08T14:00:00Z"
+    },
+    {
+      "id": "18",
+      "name": "Alienware AW3423DW Monitor",
+      "brand": "Alienware",
+      "category": "Monitors",
+      "price": 1299.99,
+      "description": "34-inch ultrawide QD-OLED monitor for immersive gaming and productivity.",
+      "imageFilename": "18.jpg",
+      "createdAt": "2024-11-06T11:20:00Z"
+    },
+    {
+      "id": "19",
+      "name": "Nest Thermostat",
+      "brand": "Google",
+      "category": "Smart Home",
+      "price": 129.99,
+      "description": "Smart thermostat with energy-saving features and app control.",
+      "imageFilename": "19.jpg",
+      "createdAt": "2024-11-04T09:00:00Z"
+    },
+    {
+      "id": "20",
+      "name": "Anker 737 Power Bank",
+      "brand": "Anker",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "High-capacity 24,000mAh power bank with fast charging for all devices.",
+      "imageFilename": "20.jpg",
+      "createdAt": "2024-12-02T11:00:00Z"
+    }
+  ]
+}
